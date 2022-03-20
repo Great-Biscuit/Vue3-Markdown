@@ -1,5 +1,9 @@
 # vue3-markdown
 
+Vue3集成[v-md-editor](https://code-farmer-i.github.io/vue-markdown-editor/zh/)组件, 并对相关功能进行了调整
+
+
+
 ## Project setup
 ```
 npm install
